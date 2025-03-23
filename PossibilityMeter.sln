@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PossibilityMeter", "PossibilityMeter\PossibilityMeter.pyproj", "{6F046864-E487-4EF1-93C9-9C7DF6B1FE1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F046864-E487-4EF1-93C9-9C7DF6B1FE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F046864-E487-4EF1-93C9-9C7DF6B1FE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95AA4FA3-EA39-4F48-A62C-553BFC968930}
+	EndGlobalSection
+EndGlobal
